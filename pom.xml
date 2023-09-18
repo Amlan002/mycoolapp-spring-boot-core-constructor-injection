@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.luv2code</groupId>
-	<artifactId>mycoolapp-spring-boot-core-constructor-injection</artifactId>
+	<artifactId>mycoolapp-spring-boot-core-composcan</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mycoolapp-core</name>
 	<description>Demo project for Spring Boot</description>
